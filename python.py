@@ -6,7 +6,7 @@ def main():
 
         # 1. Addition
         addition = num1 + num2
-        print(f"Addition: {num1} + {num2} = {addition}")
+        print(f"Addition: {num1} + {num2} = {addition}") 
 
         # 2. Subtraction
         subtraction = num1 - num2
