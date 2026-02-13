@@ -12,7 +12,7 @@ def while_loop_with_break():
     print("\n--- 2. While Loop with Break ---")
     print("Counting until 3, then breaking:")
     count = 1
-    while True:
+    while True: 
         print(f"Count: {count}")
         if count == 3:
             print("Breaking the loop!")
