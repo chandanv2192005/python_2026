@@ -38,7 +38,7 @@ def while_loop_with_else():
         count -= 1
     else:
         print("Loop completed successfully without a break.")
-
+ 
 def input_validation_loop():
     print("\n--- 5. Input Validation Loop ---")
     while True:
