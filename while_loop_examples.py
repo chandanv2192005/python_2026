@@ -46,7 +46,7 @@ def input_validation_loop():
         if user_input == 'exit':
             print("Exiting input loop.")
             break
-        print(f"You typed: {user_input}")
+        print(f"You typed:  {user_input}")
 
 def main():
     print("Demonstrating Python While Loops")
